@@ -24,11 +24,6 @@ $ git clone https://github.com/cAmartya/JAMBOARD_CLONE.git
 ![image](https://user-images.githubusercontent.com/80196675/178305463-d86c6690-954d-48e1-86aa-0ae24c43c344.png)
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/) 
 
