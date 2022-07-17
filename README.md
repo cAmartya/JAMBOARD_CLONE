@@ -11,9 +11,9 @@ $ git clone https://github.com/cAmartya/JAMBOARD_CLONE.git
 ## Features
 
 - Pencil of varying size and colors.
-- Eraser of varying size.
 - Undo and redo feature.
 - Can add sticky notes, minimize and clear the board.
+- Eraser of varying size.
 - Drag and drop features of image and sticky notes anywhere in the board.
 - Can download the content done on board.
 - Responsive on all device including touch and non-touch screen. 
