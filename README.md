@@ -2,7 +2,7 @@
 
 A JamBoard that supports the basic functionalities of a whiteboard, with added features like downloading the current state of the jamboard, importing pictures to the jamboard.
 
-## To clone the repository.
+## To clone the repository
 
 ```bash
 $ git clone https://github.com/cAmartya/JAMBOARD_CLONE.git
